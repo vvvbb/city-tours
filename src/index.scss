@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$clr-black: #222;
+$clr-green: #82b340;
+$clr-white: #fff;
+$clr-grey: #ececec;
+
+body {
+  font-family: "Open Sans", sans-serif;
+  color: $clr-black;
+  background-color: $clr-white;
+}
